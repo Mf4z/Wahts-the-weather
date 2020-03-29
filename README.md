@@ -6,7 +6,7 @@ An app that allows user to check weather information using free Api from [OpenWe
 
 ## Screenshots
 
-<img src="images/travelmantics.gif" height=500px/>
+<img src="images/weatherapp.gif" height=500px/>
    
 ## Apk
 [What's the weather](https://drive.google.com/open?id=17HsoFvtg1rblePoKUGyRx1WM4FxaLi1o)
