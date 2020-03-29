@@ -1,4 +1,4 @@
-# Wahts-the-weather
+# Whats-the-weather
 An app that allows user to check weather information using free Api from [OpenWeather](https://openweathermap.org/)
 
 ## Features
